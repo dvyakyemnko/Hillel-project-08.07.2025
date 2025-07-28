@@ -9,4 +9,3 @@ lst.extend(non_zeros)
 lst.extend([0] * zero_count)
 
 print(lst)
-/

@@ -8,4 +8,4 @@ assert add_one([9, 9, 9]) == [1, 0, 0, 0], 'Test2'
 assert add_one([0]) == [1], 'Test3'
 assert add_one([9]) == [1, 0], 'Test4'
 
-print("ОКі")
+print("ОК")
